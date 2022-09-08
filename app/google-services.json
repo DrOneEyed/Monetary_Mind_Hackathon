@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1096520783084",
+    "project_id": "finmind-9122",
+    "storage_bucket": "finmind-9122.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096520783084:android:aa7202e6e82c9df41b41c9",
+        "android_client_info": {
+          "package_name": "com.example.loaner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096520783084-iunvu1n1j5cspfivgnpd33ru5l7u9ga2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFua3GDDvC9H2dyB7XBrfdSUMiLATPYpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096520783084-iunvu1n1j5cspfivgnpd33ru5l7u9ga2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

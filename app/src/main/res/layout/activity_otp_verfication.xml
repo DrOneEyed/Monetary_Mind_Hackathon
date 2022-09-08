@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:animateLayoutChanges="true"
+    android:background="@color/green"
+    tools:context=".activities.PersonalLoanActivity">
+
+    <LinearLayout
+        android:layout_width="@dimen/_300sdp"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="16dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_40sdp"
+            android:gravity="center"
+            android:text="@string/verify_to_continue"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_18ssp"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="109dp"
+            tools:layout_editor_absoluteY="77dp" />
+
+        <EditText
+            android:id="@+id/phonwNo"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_45sdp"
+            android:layout_margin="@dimen/_12sdp"
+            android:background="@drawable/background_input"
+            android:hint="@string/phone_number"
+            android:imeOptions="actionNext"
+            android:importantForAutofill="no"
+            android:inputType="phone"
+            android:paddingStart="@dimen/_16sdp"
+            android:paddingEnd="@dimen/_16sdp"
+            android:textColor="@color/white"
+            android:textColorHint="@color/secondary_text"
+            android:textSize="@dimen/_13ssp"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="218dp" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/buttonGetOtp"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_50sdp"
+            android:layout_margin="@dimen/_12sdp"
+            android:backgroundTint="@color/primary"
+            android:text="@string/get_otp"
+            android:textColor="@color/input_background"
+            android:textSize="@dimen/_13ssp"
+            android:textStyle="bold"
+            app:cornerRadius="@dimen/_8sdp"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="482dp" />
+
+        <EditText
+            android:id="@+id/textOTP"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_45sdp"
+            android:layout_margin="@dimen/_12sdp"
+            android:background="@drawable/background_input"
+            android:hint="@string/enter_otp"
+            android:imeOptions="actionDone"
+            android:importantForAutofill="no"
+            android:inputType="textPassword"
+            android:paddingStart="@dimen/_16sdp"
+            android:paddingEnd="@dimen/_16sdp"
+            android:textColor="@color/white"
+            android:textColorHint="@color/secondary_text"
+            android:textSize="@dimen/_13ssp"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="350dp" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/buttonVerifyOTP"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_50sdp"
+            android:layout_margin="@dimen/_12sdp"
+            android:backgroundTint="@color/primary"
+            android:text="@string/verify_otp"
+            android:textColor="@color/input_background"
+            android:textSize="@dimen/_13ssp"
+            android:textStyle="bold"
+            app:cornerRadius="@dimen/_8sdp"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="482dp" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

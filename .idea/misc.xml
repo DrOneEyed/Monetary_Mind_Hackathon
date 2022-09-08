@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Vinu/VIT/Hackathon/app/src/main/res/drawable/background_content_bottom.xml" value="0.2845" />
+        <entry key="..\:/Vinu/VIT/Hackathon/app/src/main/res/drawable/background_icon.xml" value="0.2845" />
+        <entry key="..\:/Vinu/VIT/Hackathon/app/src/main/res/drawable/background_image.xml" value="0.2845" />
+        <entry key="..\:/Vinu/VIT/Hackathon/app/src/main/res/drawable/background_input.xml" value="0.2845" />
+        <entry key="..\:/Vinu/VIT/Hackathon/app/src/main/res/drawable/ic_back.xml" value="0.2845" />
+        <entry key="..\:/Vinu/VIT/Hackathon/app/src/main/res/layout/activity_bill_discounting.xml" value="0.358695652173913" />
+        <entry key="..\:/Vinu/VIT/Hackathon/app/src/main/res/layout/activity_business_loan.xml" value="0.33" />
+        <entry key="..\:/Vinu/VIT/Hackathon/app/src/main/res/layout/activity_car_loan.xml" value="0.358695652173913" />
+        <entry key="..\:/Vinu/VIT/Hackathon/app/src/main/res/layout/activity_educational_loan.xml" value="0.358695652173913" />
+        <entry key="..\:/Vinu/VIT/Hackathon/app/src/main/res/layout/activity_emi_calculator.xml" value="0.358695652173913" />
+        <entry key="..\:/Vinu/VIT/Hackathon/app/src/main/res/layout/activity_home_loan.xml" value="0.358695652173913" />
+        <entry key="..\:/Vinu/VIT/Hackathon/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Vinu/VIT/Hackathon/app/src/main/res/layout/activity_otp_verfication.xml" value="0.358695652173913" />
+        <entry key="..\:/Vinu/VIT/Hackathon/app/src/main/res/layout/activity_otp_verification_business.xml" value="0.358695652173913" />
+        <entry key="..\:/Vinu/VIT/Hackathon/app/src/main/res/layout/activity_personal.xml" value="0.358695652173913" />
+        <entry key="..\:/Vinu/VIT/Hackathon/app/src/main/res/layout/activity_personal_loan.xml" value="0.358695652173913" />
+        <entry key="..\:/Vinu/VIT/Hackathon/app/src/main/res/layout/activity_sign_in.xml" value="0.358695652173913" />
+        <entry key="..\:/Vinu/VIT/Hackathon/app/src/main/res/layout/activity_sign_up.xml" value="0.358695652173913" />
+        <entry key="..\:/Vinu/VIT/Hackathon/app/src/main/res/layout/activity_term_loan.xml" value="0.358695652173913" />
+        <entry key="..\:/Vinu/VIT/Hackathon/app/src/main/res/layout/activity_working_capital.xml" value="0.358695652173913" />
+        <entry key="..\:/Vinu/VIT/Hackathon/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.209" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
